@@ -1,0 +1,7 @@
+POST http://localhost:5222/tarefas
+Content-Type: application/json
+
+{
+  "nome": "",
+  "descricao": "Revisar os conceitos de Use Cases"
+}
